@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BankAppAPI",
+    "\\BankAppAPI\\BankAppAPI"
   ],
-  "SelectedNode": "\\C:\\Users\\Tarri\\source\\repos\\Projects",
+  "SelectedNode": "\\BankAppAPI\\BankAppAPI\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
