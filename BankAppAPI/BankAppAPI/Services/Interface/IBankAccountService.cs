@@ -1,5 +1,5 @@
 ﻿using BankAppAPI.Data.Domain;
-using BankAppAPI.Dtos;
+using BankAppAPI.Data.Dtos;
 using System.Collections.Generic;
 
 namespace BankAppAPI.Services

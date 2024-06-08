@@ -1,9 +1,6 @@
 ﻿using BankAppAPI.Data;
 using BankAppAPI.Data.Domain;
-using BankAppAPI.Dtos;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+using BankAppAPI.Data.Dtos;
 
 namespace BankAppAPI.Services
 {
