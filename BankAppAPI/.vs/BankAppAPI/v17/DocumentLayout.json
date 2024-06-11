@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\services\\implementation\\auditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\services\\implementation\\auditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\controllers\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\controllers\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\controllers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\controllers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\services\\interface\\iauditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\services\\interface\\iauditlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\controllers\\monthlystatementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\controllers\\monthlystatementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,14 +75,6 @@
       "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\data\\domain\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\services\\implementation\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\services\\implementation\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\controllers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\controllers\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\data\\domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\data\\domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|solutionrelative:bankappapi\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55AEB36F-1690-45A3-8B15-5AE03660586C}|BankAppAPI\\BankAppApi.csproj|c:\\users\\tarri\\source\\repos\\bankappapi\\bankapp\\bankapp\\bankappapi\\bankappapi\\services\\interface\\itransactionhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -166,7 +190,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,20 +202,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "BankAppAPI\\Services\\Implementation\\UserService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAD8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:18:30.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "BankAppAPI\\Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "BankAppAPI\\Services\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:17:54.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditLogService.cs",
+              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\AuditLogService.cs",
+              "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\AuditLogService.cs",
+              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\AuditLogService.cs",
+              "RelativeToolTip": "BankAppAPI\\Services\\Implementation\\AuditLogService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:05:55.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\Models\\AuditLog.cs",
+              "RelativeToolTip": "BankAppAPI\\Controllers\\Models\\AuditLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:04:41.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\Models\\User.cs",
+              "RelativeToolTip": "BankAppAPI\\Controllers\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:03:19.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "BankAppAPI\\Services\\Implementation\\AuthService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:01:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BankAppAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BankAppAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:02:27.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BankAppAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:13:00.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuditLogService.cs",
+              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IAuditLogService.cs",
+              "RelativeDocumentMoniker": "BankAppAPI\\Services\\Interface\\IAuditLogService.cs",
+              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IAuditLogService.cs",
+              "RelativeToolTip": "BankAppAPI\\Services\\Interface\\IAuditLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:05:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MonthlyStatementController.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\MonthlyStatementController.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\MonthlyStatementController.cs",
               "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\MonthlyStatementController.cs",
               "RelativeToolTip": "BankAppAPI\\Controllers\\MonthlyStatementController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAuwCMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T05:49:34.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "MonthlyStatementService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\MonthlyStatementService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\MonthlyStatementService.cs",
@@ -204,7 +345,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BankAppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Program.cs",
+              "RelativeToolTip": "BankAppAPI\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:03:08.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IMonthlyStatementService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IMonthlyStatementService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Interface\\IMonthlyStatementService.cs",
@@ -217,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Data\\Domain\\BankAccount.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Data\\Domain\\BankAccount.cs",
@@ -230,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "UserBankAccount.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\Models\\UserBankAccount.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\Models\\UserBankAccount.cs",
@@ -243,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IAccountService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Interface\\IAccountService.cs",
@@ -256,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\AccountService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\AccountService.cs",
@@ -269,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\EmailService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\EmailService.cs",
@@ -282,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IEmailService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Interface\\IEmailService.cs",
@@ -295,20 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BankAppAPI\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BankAppAPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:02:27.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\AccountController.cs",
@@ -321,33 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\Models\\User.cs",
-              "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\Models\\User.cs",
-              "RelativeToolTip": "BankAppAPI\\Controllers\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T05:03:19.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Program.cs",
-              "RelativeDocumentMoniker": "BankAppAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Program.cs",
-              "RelativeToolTip": "BankAppAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:03:08.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "EmailNotificationService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\EmailNotificationService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\EmailNotificationService.cs",
@@ -360,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "NotificationController.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\NotificationController.cs",
@@ -373,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "IEmailNotificationService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IEmailNotificationService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Interface\\IEmailNotificationService.cs",
@@ -386,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "BankAccountService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\BankAccountService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\BankAccountService.cs",
@@ -399,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "TransactionHistoryService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\TransactionHistoryService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\TransactionHistoryService.cs",
@@ -412,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "ProfileService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\ProfileService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\ProfileService.cs",
@@ -425,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\appsettings.json",
               "RelativeDocumentMoniker": "BankAppAPI\\appsettings.json",
@@ -438,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "BankAppApi",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj",
               "RelativeDocumentMoniker": "BankAppAPI\\BankAppApi.csproj",
@@ -451,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Data\\Domain\\Transaction.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Data\\Domain\\Transaction.cs",
@@ -464,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "ITransactionHistoryService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\ITransactionHistoryService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Interface\\ITransactionHistoryService.cs",
@@ -477,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "TransactionHistoryController.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\TransactionHistoryController.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\TransactionHistoryController.cs",
@@ -490,20 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\AuthService.cs",
-              "RelativeDocumentMoniker": "BankAppAPI\\Services\\Implementation\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Implementation\\AuthService.cs",
-              "RelativeToolTip": "BankAppAPI\\Services\\Implementation\\AuthService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:01:16.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "TransactionDto.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Data\\Dtos\\TransactionDto.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Data\\Dtos\\TransactionDto.cs",
@@ -516,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "UserProfileDto.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Data\\Dtos\\UserProfileDto.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Data\\Dtos\\UserProfileDto.cs",
@@ -528,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "IProfileService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IProfileService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Interface\\IProfileService.cs",
@@ -541,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\ProfileController.cs",
@@ -553,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\Projects\\.gitignore",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Projects\\.gitignore",
@@ -565,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "IBankAccountService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IBankAccountService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Interface\\IBankAccountService.cs",
@@ -577,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "CreateBankAccountDto.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankAppAPI\\Dtos\\CreateBankAccountDto.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\BankAppAPI\\Dtos\\CreateBankAccountDto.cs",
@@ -588,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankAppAPI\\Domain\\BankAccount.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\BankAppAPI\\Domain\\BankAccount.cs",
@@ -599,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "BankAccountController.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\BankAccountController.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\BankAccountController.cs",
@@ -611,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Controllers\\AuthController.cs",
@@ -623,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\Services\\Interface\\IAuthService.cs",
               "RelativeDocumentMoniker": "BankAppAPI\\Services\\Interface\\IAuthService.cs",
@@ -635,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "BankAccountDto.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankAppAPI\\Dtos\\BankAccountDto.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\BankAppAPI\\Dtos\\BankAccountDto.cs",
@@ -646,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "WithdrawDto.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankAppAPI\\Dtos\\WithdrawDto.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\BankAppAPI\\Dtos\\WithdrawDto.cs",
@@ -657,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "DepositDto.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankAppAPI\\Dtos\\DepositDto.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\BankAppAPI\\Dtos\\DepositDto.cs",
@@ -668,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankAppAPI\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\BankAppAPI\\Dtos\\LoginDto.cs",
@@ -679,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankAppAPI\\Domain\\Transaction.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\BankAppAPI\\Domain\\Transaction.cs",

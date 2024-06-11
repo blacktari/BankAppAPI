@@ -1,6 +1,7 @@
 using BankAppAPI.Data;
 using BankAppAPI.Models;
 using BankAppAPI.Services;
+using BankAppAPI.Services.Implementation;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -24,6 +25,7 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ITransactionHistoryService, TransactionHistoryService>();
 builder.Services.AddScoped<IEmailNotificationService, EmailNotificationService>();
 builder.Services.AddScoped<BankAppAPI.Services.IEmailService, BankAppAPI.Services.EmailService>(); // Specify the namespace for EmailService
+builder.Services.AddScoped<IAuditLogService, AuditLogService>();
 
 var app = builder.Build();
 

@@ -1,5 +1,5 @@
-﻿using BankAppAPI.Data;
-
+﻿// AuthService.cs
+using BankAppAPI.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System;
