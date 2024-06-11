@@ -1,4 +1,4 @@
-﻿using BankAppAPI.Data.Domain;
+﻿using BankAppApi.Controllers.Domain;
 using BankAppAPI.Data.Dtos;
 using System.Collections.Generic;
 

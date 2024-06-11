@@ -2,8 +2,8 @@
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BankAppAPI.Models;
 using BankAppAPI.Services;
+using BankAppApi.Controllers.Domain;
 
 namespace BankAppAPI.Controllers
 {

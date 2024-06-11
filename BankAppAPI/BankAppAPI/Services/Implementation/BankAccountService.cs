@@ -1,5 +1,5 @@
-﻿using BankAppAPI.Data;
-using BankAppAPI.Data.Domain;
+﻿using BankAppApi.Controllers.Domain;
+using BankAppAPI.Data;
 using BankAppAPI.Data.Dtos;
 using System;
 using System.Collections.Generic;

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BankAppAPI.Models
+namespace BankAppApi.Controllers.Domain
 {
     public class Transaction
     {

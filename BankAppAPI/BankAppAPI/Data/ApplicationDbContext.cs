@@ -1,4 +1,4 @@
-﻿using BankAppAPI.Data.Domain;
+﻿using BankAppApi.Controllers.Domain;
 using BankAppAPI.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -15,5 +15,6 @@ namespace BankAppAPI.Data
         public DbSet<BankAccount> BankAccounts { get; set; }
         public DbSet<Transaction> Transactions { get; set; }
         public DbSet<BankAppAPI.Models.AuditLog> AuditLogs { get; set; } // Fully qualify the reference here
+        public DbSet<Feedback> Feedbacks { get; set; }
     }
 }

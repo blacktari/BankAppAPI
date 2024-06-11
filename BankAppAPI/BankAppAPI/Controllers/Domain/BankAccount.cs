@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BankAppAPI.Data.Domain
+namespace BankAppApi.Controllers.Domain
 {
     public class BankAccount
     {
