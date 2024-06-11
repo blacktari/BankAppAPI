@@ -49,7 +49,15 @@
               "target": "Package",
               "version": "[4.0.3, )"
             },
+            "EntityFramework.Extended": {
+              "target": "Package",
+              "version": "[6.1.0.168, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
             },
@@ -66,6 +74,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.1.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

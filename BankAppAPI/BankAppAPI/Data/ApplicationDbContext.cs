@@ -1,11 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using BankAppAPI.Data.Domain;
 using BankAppAPI.Models;
-using BankAppAPI.Data.Domain;
-using Microsoft.Azure.Documents;
+using EntityFramework.Audit;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace BankAppAPI.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext<User>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
@@ -14,6 +15,6 @@ namespace BankAppAPI.Data
 
         public DbSet<BankAccount> BankAccounts { get; set; }
         public DbSet<Transaction> Transactions { get; set; }
-        public DbSet<User> Users { get; set; } // Assuming there's a User entity for authentication
+        public DbSet<AuditLog> AuditLogs { get; set; }
     }
 }

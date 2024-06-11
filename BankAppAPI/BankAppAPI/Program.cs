@@ -1,5 +1,7 @@
 using BankAppAPI.Data;
+using BankAppAPI.Models;
 using BankAppAPI.Services;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,10 +13,17 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Register services
+// Register Identity services
+builder.Services.AddIdentity<User, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
+
+// Register custom services
 builder.Services.AddScoped<IBankAccountService, BankAccountService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ITransactionHistoryService, TransactionHistoryService>();
+builder.Services.AddScoped<IEmailNotificationService, EmailNotificationService>();
+builder.Services.AddScoped<BankAppAPI.Services.IEmailService, BankAppAPI.Services.EmailService>(); // Specify the namespace for EmailService
 
 var app = builder.Build();
 
