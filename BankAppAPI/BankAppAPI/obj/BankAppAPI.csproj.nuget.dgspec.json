@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarri\\Desktop\\BankAppApi\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj": {}
+    "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarri\\Desktop\\BankAppApi\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj": {
+    "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarri\\Desktop\\BankAppApi\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj",
+        "projectUniqueName": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj",
         "projectName": "BankAppApi",
-        "projectPath": "C:\\Users\\Tarri\\Desktop\\BankAppApi\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj",
+        "projectPath": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj",
         "packagesPath": "C:\\Users\\Tarri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarri\\Desktop\\BankAppApi\\BankAppAPI\\BankAppAPI\\obj\\",
+        "outputPath": "C:\\Users\\Tarri\\source\\repos\\BankAppAPI\\BankApp\\BankApp\\BankAppAPI\\BankAppAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,6 +52,10 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Microsoft.Azure.DocumentDB.Core": {
+              "target": "Package",
+              "version": "[2.22.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

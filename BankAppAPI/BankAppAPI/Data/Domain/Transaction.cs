@@ -1,13 +1,13 @@
-﻿namespace BankAppAPI.Data.Domain
+﻿using System;
+
+namespace BankAppAPI.Models
 {
     public class Transaction
     {
-        public string Id { get; set; }
-        public string BankAccountId { get; set; }
+        public int Id { get; set; }
+        public string UserId { get; set; } // Ensure this property exists
         public decimal Amount { get; set; }
         public DateTime Date { get; set; }
         public string Description { get; set; }
-        public string DepositBank { get; set; }
-        public string DepositAccount { get; set; }
     }
 }
