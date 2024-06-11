@@ -1,9 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\BankAppAPI",
-    "\\BankAppAPI\\BankAppAPI"
+    ""
   ],
-  "SelectedNode": "\\BankAppAPI\\BankAppAPI\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

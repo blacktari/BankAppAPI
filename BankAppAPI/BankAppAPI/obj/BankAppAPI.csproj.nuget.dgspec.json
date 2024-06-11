@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarri\\source\\repos\\Projects\\BankAppAPI\\BankAppAPI\\BankAppAPI.csproj": {}
+    "C:\\Users\\Tarri\\Desktop\\BankAppApi\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarri\\source\\repos\\Projects\\BankAppAPI\\BankAppAPI\\BankAppAPI.csproj": {
+    "C:\\Users\\Tarri\\Desktop\\BankAppApi\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarri\\source\\repos\\Projects\\BankAppAPI\\BankAppAPI\\BankAppAPI.csproj",
-        "projectName": "BankAppAPI",
-        "projectPath": "C:\\Users\\Tarri\\source\\repos\\Projects\\BankAppAPI\\BankAppAPI\\BankAppAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Tarri\\Desktop\\BankAppApi\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj",
+        "projectName": "BankAppApi",
+        "projectPath": "C:\\Users\\Tarri\\Desktop\\BankAppApi\\BankAppAPI\\BankAppAPI\\BankAppApi.csproj",
         "packagesPath": "C:\\Users\\Tarri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarri\\source\\repos\\Projects\\BankAppAPI\\BankAppAPI\\obj\\",
+        "outputPath": "C:\\Users\\Tarri\\Desktop\\BankAppApi\\BankAppAPI\\BankAppAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarri\\AppData\\Roaming\\NuGet\\NuGet.Config",

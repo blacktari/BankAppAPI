@@ -1,6 +1,5 @@
 ﻿using BankAppAPI.Data;
-using BankAppAPI.Domain;
-using BankAppAPI.Dtos;
+
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System;

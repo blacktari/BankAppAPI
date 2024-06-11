@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\BankAppAPI.props" />
+  <Import Project="..\buildMultiTargeting\BankAppApi.props" />
 </Project>

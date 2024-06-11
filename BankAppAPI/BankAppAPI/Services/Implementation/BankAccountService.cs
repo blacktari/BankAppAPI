@@ -1,6 +1,6 @@
 ﻿using BankAppAPI.Data;
 using BankAppAPI.Data.Domain;
-using BankAppAPI.Dtos;
+using BankAppAPI.Data.Dtos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
