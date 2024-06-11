@@ -16,5 +16,6 @@ namespace BankAppAPI.Data
         public DbSet<Transaction> Transactions { get; set; }
         public DbSet<BankAppAPI.Models.AuditLog> AuditLogs { get; set; } // Fully qualify the reference here
         public DbSet<Feedback> Feedbacks { get; set; }
+        public DbSet<SavingsGoal> SavingsGoals { get; set; }
     }
 }

@@ -24,9 +24,9 @@ builder.Services.AddScoped<IBankAccountService, BankAccountService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ITransactionHistoryService, TransactionHistoryService>();
 builder.Services.AddScoped<IEmailNotificationService, EmailNotificationService>();
-builder.Services.AddScoped<IFeedbackService, FeedbackService>();
 builder.Services.AddScoped<BankAppAPI.Services.IEmailService, BankAppAPI.Services.EmailService>(); // Specify the namespace for EmailService
 builder.Services.AddScoped<IAuditLogService, AuditLogService>();
+builder.Services.AddScoped<ISavingsGoalService, SavingsGoalService>();
 
 var app = builder.Build();
 
