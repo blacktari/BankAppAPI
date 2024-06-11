@@ -14,7 +14,7 @@ namespace BankAppAPI.Data
         }
 
         public DbSet<BankAccount> BankAccounts { get; set; }
-        public DbSet<Transaction> Transactions { get; set; }
+        public DbSet<BankAppAPI.Models.Transaction> Transactions { get; set; } // Fully qualify Transaction class
         public DbSet<AuditLog> AuditLogs { get; set; }
     }
 }
